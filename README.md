@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Kabakov89
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning JS.
+- 🌱 I’m currently learning Programming Fundamentals module of SoftUni w/ JavaScript
